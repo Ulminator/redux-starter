@@ -34,3 +34,7 @@ dist
 
 # Mac files
 .DS_Store
+
+.gitignore
+
+notes.md
